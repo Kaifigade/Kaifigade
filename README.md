@@ -5,6 +5,4 @@
 - 📫 How to reach me t.me/expertdc1
 
 <!---
-Kaifigade/Kaifigade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Kaifigade is a ✨ special ✨ repository because its `experienced developer` with a team of qualified developers who are ready for quality development.
